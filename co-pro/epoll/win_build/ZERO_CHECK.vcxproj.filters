@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\C++项目\coroutine-lib-main\coroutine-lib-main\fiber_lib\epoll\win_build\CMakeFiles\d25c09851bee8392dfcc794c885bcba3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{353916AB-6B8B-304F-A4B3-3B96CC7262D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

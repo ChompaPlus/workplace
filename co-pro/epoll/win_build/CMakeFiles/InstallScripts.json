@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/C++\u9879\u76ee/coroutine-lib-main/coroutine-lib-main/fiber_lib/epoll/win_build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
