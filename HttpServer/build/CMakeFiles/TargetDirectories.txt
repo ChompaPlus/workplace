@@ -1,3 +1,0 @@
-/home/yebidang/workplace/HttpServer/build/CMakeFiles/simple_server.dir
-/home/yebidang/workplace/HttpServer/build/CMakeFiles/edit_cache.dir
-/home/yebidang/workplace/HttpServer/build/CMakeFiles/rebuild_cache.dir
